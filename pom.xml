@@ -18,6 +18,14 @@
     </dependency>
   </dependencies>
 
+  <dependencies>
+    <dependency>
+      <groupId>org.mariadb.jdbc</groupId>
+      <artifactId>mariadb-java-client</artifactId>
+      <version>3.5.3</version>
+    </dependency>
+  </dependencies>
+
   <build>
     <finalName>4glapp</finalName>
     <plugins>
